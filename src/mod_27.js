@@ -1,2 +1,4 @@
 // test: add regression for #142 (2)
 export const v2 = 2;
+// refactor: split api client (3)
+export const v3 = 3;
