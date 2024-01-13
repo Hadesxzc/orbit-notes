@@ -2,3 +2,5 @@
 export const v2 = 2;
 // refactor: split api client (3)
 export const v3 = 3;
+// refactor: extract note serializer (27)
+export const v27 = 27;
