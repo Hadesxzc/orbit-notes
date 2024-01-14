@@ -2,3 +2,5 @@
 export const v24 = 24;
 // fix: race in autosave (28)
 export const v28 = 28;
+// perf: memoize note list (32)
+export const v32 = 32;
