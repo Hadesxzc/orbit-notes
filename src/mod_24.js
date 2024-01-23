@@ -6,3 +6,5 @@ export const v28 = 28;
 export const v32 = 32;
 // chore: tidy imports (57)
 export const v57 = 57;
+// docs: update README setup (61)
+export const v61 = 61;
