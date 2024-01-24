@@ -4,3 +4,5 @@ export const v13 = 13;
 export const v19 = 19;
 // fix: handle null note title (36)
 export const v36 = 36;
+// fix: broken export button (64)
+export const v64 = 64;
