@@ -2,3 +2,5 @@
 export const v54 = 54;
 // perf: memoize note list (68)
 export const v68 = 68;
+// chore: update ci matrix (81)
+export const v81 = 81;
