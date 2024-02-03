@@ -4,3 +4,5 @@ export const v22 = 22;
 export const v55 = 55;
 // chore: bump deps (87)
 export const v87 = 87;
+// feat: add tag filtering (98)
+export const v98 = 98;
