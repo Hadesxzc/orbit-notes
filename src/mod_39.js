@@ -4,3 +4,5 @@ export const v11 = 11;
 export const v33 = 33;
 // fix: unicode in search (80)
 export const v80 = 80;
+// feat: dark mode toggle (100)
+export const v100 = 100;
