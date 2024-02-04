@@ -4,3 +4,5 @@ export const v43 = 43;
 export const v84 = 84;
 // fix: broken export button (90)
 export const v90 = 90;
+// refactor: extract note serializer (102)
+export const v102 = 102;
