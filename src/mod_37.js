@@ -6,3 +6,5 @@ export const v48 = 48;
 export const v69 = 69;
 // feat: keyboard shortcuts (95)
 export const v95 = 95;
+// feat: dark mode toggle (104)
+export const v104 = 104;
