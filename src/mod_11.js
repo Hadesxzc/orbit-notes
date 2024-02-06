@@ -6,3 +6,5 @@ export const v71 = 71;
 export const v75 = 75;
 // refactor: split api client (77)
 export const v77 = 77;
+// perf: memoize note list (108)
+export const v108 = 108;
