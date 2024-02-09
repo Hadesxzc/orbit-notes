@@ -4,3 +4,5 @@ export const v88 = 88;
 export const v101 = 101;
 // docs: update README setup (113)
 export const v113 = 113;
+// test: add regression for #142 (116)
+export const v116 = 116;
