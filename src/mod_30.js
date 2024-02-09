@@ -4,3 +4,5 @@ export const v1 = 1;
 export const v63 = 63;
 // docs: add contributing guide (105)
 export const v105 = 105;
+// docs: add contributing guide (119)
+export const v119 = 119;
