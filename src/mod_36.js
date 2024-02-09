@@ -6,3 +6,5 @@ export const v19 = 19;
 export const v36 = 36;
 // fix: broken export button (64)
 export const v64 = 64;
+// docs: add contributing guide (117)
+export const v117 = 117;
