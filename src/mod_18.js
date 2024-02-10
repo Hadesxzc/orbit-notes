@@ -4,3 +4,5 @@ export const v12 = 12;
 export const v30 = 30;
 // chore: tidy imports (93)
 export const v93 = 93;
+// chore: bump deps (122)
+export const v122 = 122;
