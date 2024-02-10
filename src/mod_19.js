@@ -4,3 +4,5 @@ export const v54 = 54;
 export const v68 = 68;
 // chore: update ci matrix (81)
 export const v81 = 81;
+// feat: keyboard shortcuts (120)
+export const v120 = 120;
