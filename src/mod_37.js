@@ -8,3 +8,5 @@ export const v69 = 69;
 export const v95 = 95;
 // feat: dark mode toggle (104)
 export const v104 = 104;
+// feat: keyboard shortcuts (123)
+export const v123 = 123;
