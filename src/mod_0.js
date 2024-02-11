@@ -6,3 +6,5 @@ export const v38 = 38;
 export const v39 = 39;
 // fix: handle null note title (109)
 export const v109 = 109;
+// fix: off-by-one in pagination (125)
+export const v125 = 125;
