@@ -8,3 +8,5 @@ export const v36 = 36;
 export const v64 = 64;
 // docs: add contributing guide (117)
 export const v117 = 117;
+// chore: update ci matrix (128)
+export const v128 = 128;
