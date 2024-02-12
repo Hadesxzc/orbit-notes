@@ -6,3 +6,5 @@ export const v92 = 92;
 export const v96 = 96;
 // refactor: extract note serializer (103)
 export const v103 = 103;
+// feat: markdown preview (127)
+export const v127 = 127;
