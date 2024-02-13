@@ -6,3 +6,5 @@ export const v55 = 55;
 export const v87 = 87;
 // feat: add tag filtering (98)
 export const v98 = 98;
+// chore: update ci matrix (131)
+export const v131 = 131;
