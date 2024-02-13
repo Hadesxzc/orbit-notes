@@ -6,3 +6,5 @@ export const v23 = 23;
 export const v42 = 42;
 // chore: bump deps (86)
 export const v86 = 86;
+// feat: keyboard shortcuts (130)
+export const v130 = 130;
