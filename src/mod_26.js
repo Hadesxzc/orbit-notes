@@ -8,3 +8,5 @@ export const v96 = 96;
 export const v103 = 103;
 // feat: markdown preview (127)
 export const v127 = 127;
+// fix: handle null note title (132)
+export const v132 = 132;
