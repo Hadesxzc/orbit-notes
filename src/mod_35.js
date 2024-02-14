@@ -10,3 +10,5 @@ export const v72 = 72;
 export const v89 = 89;
 // fix: off-by-one in pagination (114)
 export const v114 = 114;
+// docs: update README setup (135)
+export const v135 = 135;
