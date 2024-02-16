@@ -8,3 +8,5 @@ export const v105 = 105;
 export const v119 = 119;
 // fix: broken export button (139)
 export const v139 = 139;
+// fix: unicode in search (141)
+export const v141 = 141;
