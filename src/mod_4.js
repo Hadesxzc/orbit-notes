@@ -8,3 +8,5 @@ export const v87 = 87;
 export const v98 = 98;
 // chore: update ci matrix (131)
 export const v131 = 131;
+// perf: memoize note list (142)
+export const v142 = 142;
