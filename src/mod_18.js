@@ -8,3 +8,5 @@ export const v93 = 93;
 export const v122 = 122;
 // refactor: split api client (134)
 export const v134 = 134;
+// perf: memoize note list (149)
+export const v149 = 149;
