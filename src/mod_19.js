@@ -6,3 +6,5 @@ export const v68 = 68;
 export const v81 = 81;
 // feat: keyboard shortcuts (120)
 export const v120 = 120;
+// refactor: split api client (155)
+export const v155 = 155;
