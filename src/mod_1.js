@@ -6,3 +6,5 @@ export const v84 = 84;
 export const v90 = 90;
 // refactor: extract note serializer (102)
 export const v102 = 102;
+// chore: bump deps (159)
+export const v159 = 159;
