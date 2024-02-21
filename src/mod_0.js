@@ -8,3 +8,5 @@ export const v39 = 39;
 export const v109 = 109;
 // fix: off-by-one in pagination (125)
 export const v125 = 125;
+// fix: handle null note title (158)
+export const v158 = 158;
