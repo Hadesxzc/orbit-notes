@@ -12,3 +12,5 @@ export const v127 = 127;
 export const v132 = 132;
 // fix: race in autosave (138)
 export const v138 = 138;
+// fix: off-by-one in pagination (160)
+export const v160 = 160;
