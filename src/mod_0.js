@@ -10,3 +10,5 @@ export const v109 = 109;
 export const v125 = 125;
 // fix: handle null note title (158)
 export const v158 = 158;
+// test: add regression for #142 (165)
+export const v165 = 165;
