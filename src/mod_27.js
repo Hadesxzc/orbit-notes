@@ -6,3 +6,5 @@ export const v3 = 3;
 export const v27 = 27;
 // test: cover empty state (136)
 export const v136 = 136;
+// fix: race in autosave (167)
+export const v167 = 167;
