@@ -8,3 +8,5 @@ export const v42 = 42;
 export const v86 = 86;
 // feat: keyboard shortcuts (130)
 export const v130 = 130;
+// docs: update README setup (170)
+export const v170 = 170;
