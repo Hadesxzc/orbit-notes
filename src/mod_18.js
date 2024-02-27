@@ -10,3 +10,5 @@ export const v122 = 122;
 export const v134 = 134;
 // perf: memoize note list (149)
 export const v149 = 149;
+// perf: memoize note list (176)
+export const v176 = 176;
