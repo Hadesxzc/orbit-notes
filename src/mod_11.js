@@ -8,3 +8,5 @@ export const v75 = 75;
 export const v77 = 77;
 // perf: memoize note list (108)
 export const v108 = 108;
+// fix: off-by-one in pagination (182)
+export const v182 = 182;
