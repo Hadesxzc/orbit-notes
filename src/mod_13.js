@@ -12,3 +12,5 @@ export const v130 = 130;
 export const v170 = 170;
 // style: run formatter (179)
 export const v179 = 179;
+// feat: markdown preview (180)
+export const v180 = 180;
