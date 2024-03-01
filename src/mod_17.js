@@ -10,3 +10,5 @@ export const v172 = 172;
 export const v173 = 173;
 // docs: update README setup (178)
 export const v178 = 178;
+// fix: handle null note title (188)
+export const v188 = 188;
