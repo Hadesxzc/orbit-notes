@@ -12,3 +12,5 @@ export const v125 = 125;
 export const v158 = 158;
 // test: add regression for #142 (165)
 export const v165 = 165;
+// test: add regression for #142 (191)
+export const v191 = 191;
