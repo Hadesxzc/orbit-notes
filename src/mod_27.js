@@ -8,3 +8,5 @@ export const v27 = 27;
 export const v136 = 136;
 // fix: race in autosave (167)
 export const v167 = 167;
+// fix: unicode in search (192)
+export const v192 = 192;
