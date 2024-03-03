@@ -6,3 +6,5 @@ export const v62 = 62;
 export const v106 = 106;
 // chore: update ci matrix (162)
 export const v162 = 162;
+// fix: unicode in search (193)
+export const v193 = 193;
