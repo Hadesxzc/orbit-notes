@@ -6,3 +6,5 @@ export const v47 = 47;
 export const v59 = 59;
 // docs: update README setup (85)
 export const v85 = 85;
+// feat: keyboard shortcuts (197)
+export const v197 = 197;
