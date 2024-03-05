@@ -12,3 +12,5 @@ export const v134 = 134;
 export const v149 = 149;
 // perf: memoize note list (176)
 export const v176 = 176;
+// feat: keyboard shortcuts (201)
+export const v201 = 201;
