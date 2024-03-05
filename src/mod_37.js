@@ -12,3 +12,5 @@ export const v104 = 104;
 export const v123 = 123;
 // docs: add contributing guide (146)
 export const v146 = 146;
+// refactor: extract note serializer (200)
+export const v200 = 200;
