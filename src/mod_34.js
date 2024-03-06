@@ -8,3 +8,5 @@ export const v106 = 106;
 export const v162 = 162;
 // fix: unicode in search (193)
 export const v193 = 193;
+// fix: off-by-one in pagination (204)
+export const v204 = 204;
