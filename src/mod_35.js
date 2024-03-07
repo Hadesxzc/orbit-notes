@@ -14,3 +14,5 @@ export const v114 = 114;
 export const v135 = 135;
 // fix: off-by-one in pagination (185)
 export const v185 = 185;
+// fix: unicode in search (209)
+export const v209 = 209;
