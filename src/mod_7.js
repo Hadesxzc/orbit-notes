@@ -2,3 +2,5 @@
 export const v21 = 21;
 // fix: race in autosave (214)
 export const v214 = 214;
+// docs: update README setup (216)
+export const v216 = 216;
