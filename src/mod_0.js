@@ -16,3 +16,5 @@ export const v165 = 165;
 export const v191 = 191;
 // test: cover empty state (203)
 export const v203 = 203;
+// docs: add contributing guide (226)
+export const v226 = 226;
