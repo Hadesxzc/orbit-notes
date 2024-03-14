@@ -14,3 +14,5 @@ export const v141 = 141;
 export const v164 = 164;
 // fix: broken export button (222)
 export const v222 = 222;
+// chore: update ci matrix (229)
+export const v229 = 229;
