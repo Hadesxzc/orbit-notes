@@ -8,3 +8,5 @@ export const v147 = 147;
 export const v153 = 153;
 // fix: broken export button (157)
 export const v157 = 157;
+// docs: update README setup (235)
+export const v235 = 235;
