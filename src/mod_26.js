@@ -14,3 +14,5 @@ export const v132 = 132;
 export const v138 = 138;
 // fix: off-by-one in pagination (160)
 export const v160 = 160;
+// test: cover empty state (237)
+export const v237 = 237;
