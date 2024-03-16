@@ -8,3 +8,5 @@ export const v206 = 206;
 export const v207 = 207;
 // feat: dark mode toggle (221)
 export const v221 = 221;
+// feat: add tag filtering (236)
+export const v236 = 236;
