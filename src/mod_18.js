@@ -14,3 +14,5 @@ export const v149 = 149;
 export const v176 = 176;
 // feat: keyboard shortcuts (201)
 export const v201 = 201;
+// chore: update ci matrix (241)
+export const v241 = 241;
