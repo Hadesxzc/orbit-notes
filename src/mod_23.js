@@ -6,3 +6,5 @@ export const v82 = 82;
 export const v91 = 91;
 // feat: add tag filtering (187)
 export const v187 = 187;
+// perf: memoize note list (239)
+export const v239 = 239;
