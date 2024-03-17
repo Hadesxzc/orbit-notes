@@ -12,3 +12,5 @@ export const v137 = 137;
 export const v145 = 145;
 // fix: off-by-one in pagination (232)
 export const v232 = 232;
+// test: add regression for #142 (242)
+export const v242 = 242;
