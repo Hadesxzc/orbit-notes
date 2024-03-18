@@ -12,3 +12,5 @@ export const v117 = 117;
 export const v128 = 128;
 // test: add regression for #142 (212)
 export const v212 = 212;
+// test: cover empty state (245)
+export const v245 = 245;
