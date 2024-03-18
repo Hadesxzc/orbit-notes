@@ -16,3 +16,5 @@ export const v135 = 135;
 export const v185 = 185;
 // fix: unicode in search (209)
 export const v209 = 209;
+// chore: update ci matrix (243)
+export const v243 = 243;
