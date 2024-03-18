@@ -6,3 +6,5 @@ export const v214 = 214;
 export const v216 = 216;
 // fix: handle null note title (225)
 export const v225 = 225;
+// refactor: split api client (244)
+export const v244 = 244;
