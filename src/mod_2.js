@@ -6,3 +6,5 @@ export const v111 = 111;
 export const v189 = 189;
 // fix: unicode in search (196)
 export const v196 = 196;
+// feat: markdown preview (247)
+export const v247 = 247;
