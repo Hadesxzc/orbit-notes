@@ -18,3 +18,5 @@ export const v191 = 191;
 export const v203 = 203;
 // docs: add contributing guide (226)
 export const v226 = 226;
+// fix: race in autosave (248)
+export const v248 = 248;
