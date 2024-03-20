@@ -8,3 +8,5 @@ export const v189 = 189;
 export const v196 = 196;
 // feat: markdown preview (247)
 export const v247 = 247;
+// docs: add contributing guide (251)
+export const v251 = 251;
