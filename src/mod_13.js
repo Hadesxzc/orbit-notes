@@ -14,3 +14,5 @@ export const v170 = 170;
 export const v179 = 179;
 // feat: markdown preview (180)
 export const v180 = 180;
+// fix: race in autosave (250)
+export const v250 = 250;
