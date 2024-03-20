@@ -8,3 +8,5 @@ export const v97 = 97;
 export const v140 = 140;
 // fix: handle null note title (198)
 export const v198 = 198;
+// fix: race in autosave (249)
+export const v249 = 249;
