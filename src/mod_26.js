@@ -16,3 +16,5 @@ export const v138 = 138;
 export const v160 = 160;
 // test: cover empty state (237)
 export const v237 = 237;
+// refactor: extract note serializer (254)
+export const v254 = 254;
