@@ -12,3 +12,5 @@ export const v197 = 197;
 export const v215 = 215;
 // chore: tidy imports (223)
 export const v223 = 223;
+// perf: memoize note list (255)
+export const v255 = 255;
