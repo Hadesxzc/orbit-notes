@@ -12,3 +12,5 @@ export const v156 = 156;
 export const v166 = 166;
 // feat: dark mode toggle (224)
 export const v224 = 224;
+// feat: markdown preview (258)
+export const v258 = 258;
