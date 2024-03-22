@@ -18,3 +18,5 @@ export const v222 = 222;
 export const v229 = 229;
 // feat: add tag filtering (238)
 export const v238 = 238;
+// feat: markdown preview (257)
+export const v257 = 257;
