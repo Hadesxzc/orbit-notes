@@ -12,3 +12,5 @@ export const v108 = 108;
 export const v182 = 182;
 // chore: tidy imports (230)
 export const v230 = 230;
+// chore: bump deps (260)
+export const v260 = 260;
