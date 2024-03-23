@@ -10,3 +10,5 @@ export const v183 = 183;
 export const v194 = 194;
 // test: add regression for #142 (240)
 export const v240 = 240;
+// feat: add tag filtering (261)
+export const v261 = 261;
