@@ -8,3 +8,5 @@ export const v216 = 216;
 export const v225 = 225;
 // refactor: split api client (244)
 export const v244 = 244;
+// docs: update README setup (262)
+export const v262 = 262;
