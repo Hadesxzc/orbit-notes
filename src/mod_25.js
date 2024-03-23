@@ -4,3 +4,5 @@ export const v45 = 45;
 export const v184 = 184;
 // fix: unicode in search (231)
 export const v231 = 231;
+// docs: update README setup (259)
+export const v259 = 259;
