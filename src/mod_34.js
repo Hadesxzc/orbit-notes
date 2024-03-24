@@ -12,3 +12,5 @@ export const v193 = 193;
 export const v204 = 204;
 // fix: off-by-one in pagination (205)
 export const v205 = 205;
+// feat: dark mode toggle (265)
+export const v265 = 265;
