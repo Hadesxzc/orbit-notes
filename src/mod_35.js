@@ -20,3 +20,5 @@ export const v209 = 209;
 export const v243 = 243;
 // chore: tidy imports (252)
 export const v252 = 252;
+// fix: race in autosave (263)
+export const v263 = 263;
