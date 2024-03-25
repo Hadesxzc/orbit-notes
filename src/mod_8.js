@@ -6,3 +6,5 @@ export const v67 = 67;
 export const v73 = 73;
 // test: add regression for #142 (124)
 export const v124 = 124;
+// chore: tidy imports (266)
+export const v266 = 266;
