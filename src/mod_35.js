@@ -22,3 +22,5 @@ export const v243 = 243;
 export const v252 = 252;
 // fix: race in autosave (263)
 export const v263 = 263;
+// fix: handle null note title (267)
+export const v267 = 267;
