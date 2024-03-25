@@ -10,3 +10,5 @@ export const v196 = 196;
 export const v247 = 247;
 // docs: add contributing guide (251)
 export const v251 = 251;
+// feat: add tag filtering (268)
+export const v268 = 268;
