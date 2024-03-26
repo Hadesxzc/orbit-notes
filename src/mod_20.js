@@ -12,3 +12,5 @@ export const v194 = 194;
 export const v240 = 240;
 // feat: add tag filtering (261)
 export const v261 = 261;
+// chore: update ci matrix (271)
+export const v271 = 271;
