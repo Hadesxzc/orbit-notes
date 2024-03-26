@@ -6,3 +6,5 @@ export const v184 = 184;
 export const v231 = 231;
 // docs: update README setup (259)
 export const v259 = 259;
+// test: add regression for #142 (270)
+export const v270 = 270;
