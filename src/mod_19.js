@@ -10,3 +10,5 @@ export const v120 = 120;
 export const v155 = 155;
 // perf: memoize note list (233)
 export const v233 = 233;
+// fix: off-by-one in pagination (275)
+export const v275 = 275;
