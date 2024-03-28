@@ -10,3 +10,5 @@ export const v225 = 225;
 export const v244 = 244;
 // docs: update README setup (262)
 export const v262 = 262;
+// test: add regression for #142 (277)
+export const v277 = 277;
