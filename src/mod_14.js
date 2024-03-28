@@ -10,3 +10,5 @@ export const v207 = 207;
 export const v221 = 221;
 // feat: add tag filtering (236)
 export const v236 = 236;
+// fix: handle null note title (276)
+export const v276 = 276;
