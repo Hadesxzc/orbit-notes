@@ -24,3 +24,5 @@ export const v252 = 252;
 export const v263 = 263;
 // fix: handle null note title (267)
 export const v267 = 267;
+// perf: memoize note list (281)
+export const v281 = 281;
