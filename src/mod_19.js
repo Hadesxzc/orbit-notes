@@ -12,3 +12,5 @@ export const v155 = 155;
 export const v233 = 233;
 // fix: off-by-one in pagination (275)
 export const v275 = 275;
+// fix: handle null note title (280)
+export const v280 = 280;
