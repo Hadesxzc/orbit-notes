@@ -16,3 +16,5 @@ export const v188 = 188;
 export const v219 = 219;
 // chore: update ci matrix (269)
 export const v269 = 269;
+// fix: handle null note title (284)
+export const v284 = 284;
