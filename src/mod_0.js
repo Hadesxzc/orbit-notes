@@ -20,3 +20,5 @@ export const v203 = 203;
 export const v226 = 226;
 // fix: race in autosave (248)
 export const v248 = 248;
+// docs: update README setup (283)
+export const v283 = 283;
