@@ -14,3 +14,5 @@ export const v128 = 128;
 export const v212 = 212;
 // test: cover empty state (245)
 export const v245 = 245;
+// chore: update ci matrix (287)
+export const v287 = 287;
