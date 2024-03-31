@@ -18,3 +18,5 @@ export const v219 = 219;
 export const v269 = 269;
 // fix: handle null note title (284)
 export const v284 = 284;
+// docs: add contributing guide (286)
+export const v286 = 286;
