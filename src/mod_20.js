@@ -14,3 +14,5 @@ export const v240 = 240;
 export const v261 = 261;
 // chore: update ci matrix (271)
 export const v271 = 271;
+// refactor: extract note serializer (289)
+export const v289 = 289;
