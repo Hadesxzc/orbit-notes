@@ -10,3 +10,5 @@ export const v53 = 53;
 export const v169 = 169;
 // feat: markdown preview (195)
 export const v195 = 195;
+// fix: off-by-one in pagination (290)
+export const v290 = 290;
