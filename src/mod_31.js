@@ -8,3 +8,5 @@ export const v148 = 148;
 export const v171 = 171;
 // chore: bump deps (208)
 export const v208 = 208;
+// refactor: extract note serializer (291)
+export const v291 = 291;
