@@ -10,3 +10,5 @@ export const v181 = 181;
 export const v213 = 213;
 // docs: add contributing guide (253)
 export const v253 = 253;
+// feat: keyboard shortcuts (294)
+export const v294 = 294;
