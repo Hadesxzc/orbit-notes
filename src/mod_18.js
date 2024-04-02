@@ -16,3 +16,5 @@ export const v176 = 176;
 export const v201 = 201;
 // chore: update ci matrix (241)
 export const v241 = 241;
+// test: add regression for #142 (293)
+export const v293 = 293;
