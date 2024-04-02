@@ -18,3 +18,5 @@ export const v83 = 83;
 export const v210 = 210;
 // chore: tidy imports (279)
 export const v279 = 279;
+// test: add regression for #142 (295)
+export const v295 = 295;
