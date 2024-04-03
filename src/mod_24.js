@@ -20,3 +20,5 @@ export const v210 = 210;
 export const v279 = 279;
 // test: add regression for #142 (295)
 export const v295 = 295;
+// fix: unicode in search (296)
+export const v296 = 296;
