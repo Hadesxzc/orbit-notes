@@ -10,3 +10,5 @@ export const v171 = 171;
 export const v208 = 208;
 // refactor: extract note serializer (291)
 export const v291 = 291;
+// fix: handle null note title (297)
+export const v297 = 297;
