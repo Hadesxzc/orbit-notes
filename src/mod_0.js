@@ -22,3 +22,5 @@ export const v226 = 226;
 export const v248 = 248;
 // docs: update README setup (283)
 export const v283 = 283;
+// fix: unicode in search (299)
+export const v299 = 299;
