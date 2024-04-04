@@ -20,3 +20,5 @@ export const v269 = 269;
 export const v284 = 284;
 // docs: add contributing guide (286)
 export const v286 = 286;
+// feat: dark mode toggle (300)
+export const v300 = 300;
