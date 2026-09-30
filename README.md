@@ -1,2 +1,3 @@
 # orbit-notes
-A tiny self-hosted notes app. Fast, keyboard-first, markdown-native.
+dipindi kung 3 yannnnn
+
